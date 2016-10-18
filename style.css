@@ -1,0 +1,36 @@
+body {
+
+}
+
+h1 {
+	color:#fff;
+	background-color: green
+
+}
+footer {
+	background-color: grey;
+
+}
+#fixed {
+	position: fixed;
+	width: 33.3%;
+	background: #666;
+	color: #fff;
+	margin: 0
+	top:0;
+	left: 0
+}
+#absolute {
+	position: absolute;
+	background: #888;
+	color: #fff;
+}
+#relative {
+	position: relative;
+	background: #666;
+	color: #fff;
+}
+.wapper {
+	width: 600xp
+	margin: 0 auto;
+}
